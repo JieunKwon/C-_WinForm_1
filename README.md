@@ -16,7 +16,7 @@ Develope the simple game for Windows Forms UI
     - Generate technical documentation using SandCastle
     
  
-  3. Console App with then same logic 
+  3. Console App with the same logic 
   
   
     - The library built can be used for Console App  
