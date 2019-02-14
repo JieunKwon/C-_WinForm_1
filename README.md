@@ -1,11 +1,12 @@
 # C#-Windows Forms App developement
+@ Feb 2019
 
-Develope the simple game for Windows Forms
+Develope the simple game for Windows Forms UI
 
   1. Purpose 
   
   
-    - Windows Forms controls use (properties, methods, and events)
+    - use Windows Forms controls  (properties, methods, and events)
     - understand the concept and implementation of class relationships (inheritance and polymorphism)
     - build logic library
     
@@ -13,3 +14,9 @@ Develope the simple game for Windows Forms
   
   
     - Generate technical documentation using SandCastle
+    
+ 
+  3. Console App with then same logic 
+  
+  
+    - The library built can be used for Console App  
