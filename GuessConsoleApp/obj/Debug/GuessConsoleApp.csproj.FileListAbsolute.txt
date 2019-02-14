@@ -1,0 +1,10 @@
+C:\Users\JIEUN KWON\Documents\2019_Winter\PROG37721_C#\inClass\GuessApp_Jieun\GuessApp\GuessConsoleApp\bin\Debug\GuessConsoleApp.exe.config
+C:\Users\JIEUN KWON\Documents\2019_Winter\PROG37721_C#\inClass\GuessApp_Jieun\GuessApp\GuessConsoleApp\bin\Debug\GuessConsoleApp.exe
+C:\Users\JIEUN KWON\Documents\2019_Winter\PROG37721_C#\inClass\GuessApp_Jieun\GuessApp\GuessConsoleApp\bin\Debug\GuessConsoleApp.pdb
+C:\Users\JIEUN KWON\Documents\2019_Winter\PROG37721_C#\inClass\GuessApp_Jieun\GuessApp\GuessConsoleApp\bin\Debug\GuessGameClassLibrary.dll
+C:\Users\JIEUN KWON\Documents\2019_Winter\PROG37721_C#\inClass\GuessApp_Jieun\GuessApp\GuessConsoleApp\bin\Debug\GuessGameClassLibrary.pdb
+C:\Users\JIEUN KWON\Documents\2019_Winter\PROG37721_C#\inClass\GuessApp_Jieun\GuessApp\GuessConsoleApp\obj\Debug\GuessConsoleApp.csprojAssemblyReference.cache
+C:\Users\JIEUN KWON\Documents\2019_Winter\PROG37721_C#\inClass\GuessApp_Jieun\GuessApp\GuessConsoleApp\obj\Debug\GuessConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\JIEUN KWON\Documents\2019_Winter\PROG37721_C#\inClass\GuessApp_Jieun\GuessApp\GuessConsoleApp\obj\Debug\GuessConsoleApp.csproj.CopyComplete
+C:\Users\JIEUN KWON\Documents\2019_Winter\PROG37721_C#\inClass\GuessApp_Jieun\GuessApp\GuessConsoleApp\obj\Debug\GuessConsoleApp.exe
+C:\Users\JIEUN KWON\Documents\2019_Winter\PROG37721_C#\inClass\GuessApp_Jieun\GuessApp\GuessConsoleApp\obj\Debug\GuessConsoleApp.pdb

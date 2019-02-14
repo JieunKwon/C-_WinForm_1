@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GuessApp</name>
+    </assembly>
+    <members>
+        <member name="T:GuessApp.GuessApp">
+            <summary>
+            GuessApp : Main Form
+            </summary>
+        </member>
+        <member name="F:GuessApp.GuessApp.GAME_ATTEMP_LIMIT">
+            <summary>
+            constant fields for the limit number of attempts allowed
+            </summary>
+        </member>
+        <member name="F:GuessApp.GuessApp.DEFAULT_LOWER_BOUND">
+            <summary>
+            constant fields for the default lower bounds
+            </summary>
+        </member>
+        <member name="F:GuessApp.GuessApp.DEFAULT_UPPER_BOUND">
+            <summary>
+             constant fields for the default upper bounds
+            </summary>
+        </member>
+        <member name="F:GuessApp.GuessApp.guessRange">
+            <summary>
+            declaration of object GuessRange
+            </summary>
+        </member>
+        <member name="F:GuessApp.GuessApp.gameLogic">
+            <summary>
+            declaration of object GameLogic
+            </summary>
+        </member>
+        <member name="M:GuessApp.GuessApp.#ctor">
+            <summary>
+            Form1 Constructor
+            </summary>
+        </member>
+        <member name="M:GuessApp.GuessApp.StartGame">
+            <summary>
+            private method : set default game environment 1) game range and logic to start game, and set default value for component
+            </summary>
+        </member>
+        <member name="M:GuessApp.GuessApp.bGuess_Click(System.Object,System.EventArgs)">
+            <summary>
+            Button Event when Guess Button is clicked
+            </summary>
+            <param name="sender">object</param>
+            <param name="e">EventArgs</param>
+        </member>
+        <member name="M:GuessApp.GuessApp.bChange_Click(System.Object,System.EventArgs)">
+            <summary>
+            Button Event to change the guess range 
+            </summary>
+            <param name="sender">object</param>
+            <param name="e">EventArgs</param>
+        </member>
+        <member name="M:GuessApp.GuessApp.bNew_Click(System.Object,System.EventArgs)">
+            <summary>
+            New Game button click event : this event allows to reset game
+            </summary>
+            <param name="sender">object</param>
+            <param name="e">EventArgs</param>
+        </member>
+        <member name="F:GuessApp.GuessApp.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:GuessApp.GuessApp.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:GuessApp.GuessApp.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:GuessApp.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:GuessApp.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:GuessApp.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:GuessApp.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>
